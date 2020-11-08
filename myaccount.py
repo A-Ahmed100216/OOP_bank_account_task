@@ -36,7 +36,7 @@ class MyAccount(AccountHolderDetails):
     def withdraw(self):
         # Take user input for amount they wish to withdraw
         withdraw_amount=float(input("Please enter the amount you wish to withdraw £"))
-        # If amount is 0, promopted to re-enter
+        # If amount is 0, prompted to re-enter
         if withdraw_amount<=0:
             result = "Invalid, please try again"
         # Otherwise, the amount is subtracted from the current balance and the remaining balance printed.
