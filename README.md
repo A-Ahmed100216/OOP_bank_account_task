@@ -2,7 +2,7 @@
 
 
 ### Tasks
-1. Create an AccountHolderDetails class with attributes name, address, age, 
+1. Create an AccountHolderDetails class with attributes name, address, age. 
 2. Inherit Account holder class into MyAccount.
 3. Create a class called MyAccount which represents a bank account, having as attributes: accountNumber (numeric type), and balance.
 4. Create a constructor () with parameters: accountNumber, balance.
@@ -17,7 +17,7 @@
 * New Project and Repository
 * Create a README.md for your documentation of this task.
 * At least 5 commits 
-* Uses OOP - must be in class and method format
+* Use OOP - must be in class and method format
 * Has documentation
 * Follows best practices
 
